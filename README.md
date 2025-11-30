@@ -13,3 +13,11 @@ This project is a smart device based on m5stickc-plus2.
 - Reminder via Microphone (Alarm with Message)
 
 NOTE: It is also possible to scroll the canvas in case the screen is too small for something
+
+
+## WIFI Ideas
+
+- Location based on IP
+- Weather based on location or static
+- News Ticker
+- Pingdom / Uptime Monitor
